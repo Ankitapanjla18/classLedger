@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  distDir: 'build', // Output to 'build' directory instead of '.next'
+  // Use default .next directory for Render compatibility
 }
 
 module.exports = nextConfig

@@ -9,7 +9,7 @@ export default function ClosingCTA() {
           Teach the way you always have.
         </h2>
         <p className="text-xl md:text-2xl text-blue-100 mb-10">
-          We&apos;ll handle the system behind the scenes.
+          {"We'll handle the system behind the scenes."}
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <Button variant="secondary" href="#contact" className="bg-white text-blue-600 hover:bg-blue-50">

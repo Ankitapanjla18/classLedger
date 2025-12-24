@@ -14,7 +14,7 @@ export default function HybridReady() {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-            Hybrid When You&apos;re Ready
+            {"Hybrid When You're Ready"}
           </h2>
           <p className="text-lg text-gray-700 mb-6 leading-relaxed">
             If you decide to go hybrid, the platform supports a smooth

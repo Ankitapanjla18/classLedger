@@ -20,8 +20,7 @@ export default function TeacherFirst() {
             In small institutes, the teacher is everything.
           </p>
           <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-            That&apos;s why the system is built to reduce teacher workload, not
-            increase it.
+            {"That's why the system is built to reduce teacher workload, not increase it."}
           </p>
         </div>
 

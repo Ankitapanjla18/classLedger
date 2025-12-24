@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Use default .next directory for Render compatibility
+  output: 'export',
+  distDir: 'build',
+  images: {
+    unoptimized: true,
+  },
 }
 
 module.exports = nextConfig
